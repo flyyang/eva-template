@@ -1,5 +1,5 @@
 {
-  "name": "--name--",
+  "name": "eva-template",
   "version": "0.0.2",
   "description": "--name-- sdk",
   "main": "dist/--name--.min.js",
