@@ -1,6 +1,6 @@
 {
   "name": "eva-template",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "--name-- sdk",
   "main": "dist/--name--.min.js",
   "scripts": {
